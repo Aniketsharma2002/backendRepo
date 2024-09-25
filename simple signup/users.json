@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "sd",
+    "email": "sdf@mail",
+    "password": "12345678"
+  },
+  {
+    "id": 2,
+    "name": "Aniket Bhai",
+    "email": "Aniketbhai@gmail.com",
+    "password": "Rajnish@asdfghjkl;'"
+  },
+  {
+    "id": 3,
+    "name": "John Doe",
+    "email": "doe@john.io",
+    "password": "12345678"
+  },
+  {
+    "id": 4,
+    "name": "aniket",
+    "email": "aniketsharma46555@vdhb.com",
+    "password": "12345"
+  }
+]
